@@ -1,4 +1,10 @@
 *{
-    background-color: indigo;
-    font-family: EB Garamond;
+    margin: "0px";
+    font-family: cursive;
+}
+#titulosuperior{
+    margin-left: 50px;
+    padding-top: 150px;
+    font-size: 75px;
+    letter-spacing: -1.5px;
 }
