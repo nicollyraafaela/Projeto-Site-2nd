@@ -45,7 +45,7 @@
 }
 
 #menuconteudo {
-    background-color: #ffffff;
+    background-color: #2d8149;
     display: grid;
     grid-auto-flow: column;
     columns: auto;
@@ -73,7 +73,7 @@
 }
 
 #formulario {
-    background-color: beige;
+    background-color: rgb(220, 220, 25);
     text-align: center;
 }
 
