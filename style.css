@@ -24,7 +24,7 @@
 }
 
 #menuinformativo {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(211, 107, 107);
     display: grid;
     grid-auto-flow: column;
     columns: auto;
@@ -80,7 +80,7 @@
 #tituloformulario {
     font-size: 32px;
     padding: 70px 70px 20px 70px;
-    color: azure;
+    color: rgb(165, 105, 214);
 }
 
 #imput {
