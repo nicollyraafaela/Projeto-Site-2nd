@@ -24,7 +24,7 @@
 }
 
 #menuinformativo {
-    background-color: rgb(211, 107, 107);
+    background-color: blueviolet(185, 107, 211);
     display: grid;
     grid-auto-flow: column;
     columns: auto;
